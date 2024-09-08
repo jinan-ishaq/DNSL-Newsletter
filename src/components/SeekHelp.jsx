@@ -3,7 +3,7 @@ import AppButton from "./AppButton";
 const SeekHelp = () => {
     return (
       <section className='w-full py-16 bg-[#FEBB37] text-white px-4'>
-        <section className='max-w-[1240px] mx-auto grid lg:grid-cols-3'>
+        <section className='max-w-[1240px] mx-auto grid lg:grid-cols-3 align-center'>
             <h1 className='md:text-4xl lg:col-span-2 my-4 sm:text-3xl text-2xl font-bold py-2 md:w-[75%] self-center '>
               Don Not <span className="text-[#ea6e40]">Hesitate</span> To Ask For Help. We Are Here To Help You.
             </h1>

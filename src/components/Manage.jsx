@@ -23,7 +23,7 @@ const Manage = () => {
             and professional way possible, making your workflow smoother and
             more productive.
           </p>
-          <AppButton title="Get Started" />
+          <AppButton title="Get Started" className="mx-0" />
         </section>
       </section>
     </section>
